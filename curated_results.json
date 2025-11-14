@@ -1,0 +1,250 @@
+[
+  {
+    "text-id": "T001",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [
+      "disease-associated"
+    ],
+    "evidence_span": "Translating Alzheimer's disease-associated polymorphisms into functional candidates: a survey of IGAP genes and SNPs."
+  },
+  {
+    "text-id": "T002",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease",
+      "hypertension"
+    ],
+    "relations": [],
+    "evidence_span": "Genetic heterogeneity of Alzheimer's disease in subjects with and without hypertension."
+  },
+  {
+    "text-id": "T003",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [],
+    "evidence_span": "Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer's disease"
+  },
+  {
+    "text-id": "T004",
+    "variants": [],
+    "genes": [
+      "PCDH11X"
+    ],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Genetic variation in PCDH11X is associated with susceptibility to late-onset Alzheimer's disease."
+  },
+  {
+    "text-id": "T005",
+    "variants": [],
+    "genes": [
+      "TREM2"
+    ],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [],
+    "evidence_span": "TREM2 variants in Alzheimer's disease."
+  },
+  {
+    "text-id": "T006",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [],
+    "evidence_span": "A genome-wide association study for late-onset Alzheimer's disease using DNA pooling."
+  },
+  {
+    "text-id": "T007",
+    "variants": [],
+    "genes": [
+      "MAPT"
+    ],
+    "diseases": [
+      "Parkinson's disease",
+      "Alzheimer's disease"
+    ],
+    "relations": [],
+    "evidence_span": "Genetic overlap between Alzheimer's disease and Parkinson's disease at the MAPT locus."
+  },
+  {
+    "text-id": "T008",
+    "variants": [],
+    "genes": [
+      "CLU",
+      "CR1"
+    ],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer's disease."
+  },
+  {
+    "text-id": "T009",
+    "variants": [],
+    "genes": [
+      "MARK2",
+      "VAC14"
+    ],
+    "diseases": [
+      "Bipolar Disorder",
+      "Alzheimer's Disease"
+    ],
+    "relations": [],
+    "evidence_span": "Genetic Overlap Between Alzheimer's Disease and Bipolar Disorder Implicates the MARK2 and VAC14 Genes."
+  },
+  {
+    "text-id": "T010",
+    "variants": [],
+    "genes": [
+      "ABCA7",
+      "MS4A4E",
+      "CD33",
+      "CD2AP",
+      "EPHA1",
+      "MS4A6A"
+    ],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease."
+  },
+  {
+    "text-id": "T011",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Dementia",
+      "Frontotemporal Dementia Spectrum",
+      "Amyotrophic Lateral Sclerosis"
+    ],
+    "relations": [],
+    "evidence_span": "Selective Genetic Overlap Between Amyotrophic Lateral Sclerosis and Diseases of the Frontotemporal Dementia Spectrum."
+  },
+  {
+    "text-id": "T012",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [],
+    "evidence_span": "Sex-specific genetic predictors of Alzheimer's disease biomarkers."
+  },
+  {
+    "text-id": "T013",
+    "variants": [],
+    "genes": [
+      "TMEM106B",
+      "ABCC9",
+      "GRN"
+    ],
+    "diseases": [],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Reassessment of risk genotypes (GRN, TMEM106B, and ABCC9 variants) associated with hippocampal sclerosis of aging pathology."
+  },
+  {
+    "text-id": "T014",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer's disease"
+    ],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Single-nucleotide polymorphisms are associated with cognitive decline at Alzheimer's disease conversion within mild cognitive impairment patients."
+  },
+  {
+    "text-id": "T015",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer disease"
+    ],
+    "relations": [],
+    "evidence_span": "Genetic assessment of age-associated Alzheimer disease risk: Development and validation of a polygenic hazard score."
+  },
+  {
+    "text-id": "T016",
+    "variants": [],
+    "genes": [
+      "8448"
+    ],
+    "diseases": [
+      "Dementia",
+      "Depression",
+      "Stroke"
+    ],
+    "relations": [],
+    "evidence_span": "Genetic Study of White Matter Integrity in UK Biobank (N=8448) and the Overlap With Stroke, Depression, and Dementia."
+  },
+  {
+    "text-id": "T017",
+    "variants": [],
+    "genes": [
+      "FERMT2",
+      "APP"
+    ],
+    "diseases": [],
+    "relations": [],
+    "evidence_span": "Genome-wide, high-content siRNA screening identifies the Alzheimer's genetic risk factor FERMT2 as a major modulator of APP metabolism."
+  },
+  {
+    "text-id": "T018",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "and disease"
+    ],
+    "relations": [
+      "associated with"
+    ],
+    "evidence_span": "Genome-wide association study identifies four novel loci associated with Alzheimer's endophenotypes and disease modifiers."
+  },
+  {
+    "text-id": "T019",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Alzheimer disease",
+      "Alzheimer Disease"
+    ],
+    "relations": [],
+    "evidence_span": "Discovery of gene-gene interactions across multiple independent data sets of late onset Alzheimer disease from the Alzheimer Disease Genetics Consortium."
+  },
+  {
+    "text-id": "T020",
+    "variants": [],
+    "genes": [],
+    "diseases": [
+      "Linking Alzheimer's",
+      "Alzheimer's disease",
+      "diabetes"
+    ],
+    "relations": [],
+    "evidence_span": "Linking Alzheimer's disease and type 2 diabetes: Novel shared susceptibility genes detected by cFDR"
+  }
+]
