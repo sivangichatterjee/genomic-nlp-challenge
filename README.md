@@ -126,7 +126,9 @@ The final JSON output from the hybrid pipeline, ready for review.
 
 ## Curation Schema
 
-The `curated_results.json` file is an array of objects, where each object represents a single "fact" or relationship extracted from the text. The fields are:
+The `curated_results.json` file is an array of objects, where each object represents a single "fact" or relationship extracted from the text. 
+The `curated_results_bonus.json` file is the same but with Sentence Transformer embeddding and Hybrid extraction method.
+The fields are:
 
 * **`text_id`**: The ID from the input `texts.csv`. This is crucial for tracing a fact back to its original source document.
 * **`variant`**: The `rsID` (e.g., "rs429358") found in the text. This is the genetic variant of interest.
